@@ -8,7 +8,8 @@
 </head>
 <body>
     <div>
-    <h1>Why i am an Aspiring Developer</h1>
+    <h1>a page demonstrating what i have learn't <h1>
+    <h3>Why i am an Aspiring Developer</h1>
     <img src="image/profile.png" alt="my profile pic">
 </div>
     <div id="secondDiv">
