@@ -1,3 +1,4 @@
+Some of the content on this page is inaccesible because it has to be viewed in a browser open the .html flie in a browser to view its beauty
 <!DOCTYPE html>
 <html lang="en">
 <head>
