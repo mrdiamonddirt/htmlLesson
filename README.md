@@ -13,7 +13,7 @@
     <img src="image/profile.png" alt="my profile pic">
 </div>
     <div id="secondDiv">
-    <h2>Favourite Foods</h2>
+    <h2>Favorite Foods</h2>
         <ul>
             <li>Pizza</li>
             <li>Pie</li>
@@ -25,7 +25,7 @@
                 <li>Law abiding citizen</li>
             </ol>
         <p>
-            I was interested in joining CodeNation because i would like to deveop my skills in the field of web development
+            I was interested in joining CodeNation because i would like to develop my skills in the field of web development
         </p>
         <ol>
             <li name="listitem1"> what skills i want to develop
@@ -92,7 +92,7 @@
 </body>
 <footer>
     <a href="https://github.com/mrdiamonddirt" alt="github website">Link to my Github</a>
-    <a href="https://copsrp.com" alt="copsrp website">CoprRP website</a>
+    <a href="https://copsrp.com" alt="copsRP website">CopsRP website</a>
 </footer>
 <style>
     #wilhelmScream {
