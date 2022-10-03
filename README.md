@@ -67,7 +67,7 @@
         <source src="sounds/Wilhelm scream.ogg" type="audio/ogg">
       Your browser does not support the audio element.
       </audio>
-      <iframe width="338" height="602" src="https://www.youtube.com/embed/95mTGGfwZug" title="Onupdate(scream) screaming whelm everytime I type in visual studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe alt="you browser does't support iframes" width="338" height="602" src="https://www.youtube.com/embed/95mTGGfwZug" title="Onupdate(scream) screaming whelm everytime I type in visual studio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <h5 style="color: blue;">Start Of The Form</h5>
     <!-- Form which will send a GET request to the current URL -->
